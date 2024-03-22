@@ -1,10 +1,10 @@
-﻿namespace C_homework
+﻿namespace ConsoleApp1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("火箭隊");
+            Console.WriteLine("Hello, 火箭隊");
         }
     }
 }
