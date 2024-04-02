@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#homework\homeworkw2\homeworkw2\bin\Debug\net8.0\homeworkw2.exe
+C:\Users\user\Desktop\C#homework\homeworkw2\homeworkw2\bin\Debug\net8.0\homeworkw2.deps.json
+C:\Users\user\Desktop\C#homework\homeworkw2\homeworkw2\bin\Debug\net8.0\homeworkw2.runtimeconfig.json
+C:\Users\user\Desktop\C#homework\homeworkw2\homeworkw2\bin\Debug\net8.0\homeworkw2.dll
+C:\Users\user\Desktop\C#homework\homeworkw2\homeworkw2\bin\Debug\net8.0\homeworkw2.pdb
+C:\Users\user\Desktop\C#homework\homeworkw2\homeworkw2\obj\Debug\net8.0\homeworkw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#homework\homeworkw2\homeworkw2\obj\Debug\net8.0\homeworkw2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#homework\homeworkw2\homeworkw2\obj\Debug\net8.0\homeworkw2.AssemblyInfo.cs
+C:\Users\user\Desktop\C#homework\homeworkw2\homeworkw2\obj\Debug\net8.0\homeworkw2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#homework\homeworkw2\homeworkw2\obj\Debug\net8.0\homeworkw2.sourcelink.json
+C:\Users\user\Desktop\C#homework\homeworkw2\homeworkw2\obj\Debug\net8.0\homeworkw2.dll
+C:\Users\user\Desktop\C#homework\homeworkw2\homeworkw2\obj\Debug\net8.0\refint\homeworkw2.dll
+C:\Users\user\Desktop\C#homework\homeworkw2\homeworkw2\obj\Debug\net8.0\homeworkw2.pdb
+C:\Users\user\Desktop\C#homework\homeworkw2\homeworkw2\obj\Debug\net8.0\homeworkw2.genruntimeconfig.cache
+C:\Users\user\Desktop\C#homework\homeworkw2\homeworkw2\obj\Debug\net8.0\ref\homeworkw2.dll
