@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#homework", "C#homework\C#homework.csproj", "{4CD62A67-9C04-4A44-96DA-FBE66F8927E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C#homework", "C#homework\C#homework.csproj", "{4CD62A67-9C04-4A44-96DA-FBE66F8927E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "方案項目", "方案項目", "{B16BBCAB-E991-4789-B96D-A44A3E9BFDED}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
